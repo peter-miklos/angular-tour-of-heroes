@@ -1,2 +1,8 @@
 *Ignore node_modules
 **/node_modules/
+
+*Ignore js files in app dir
+app/**/*.js
+
+*Ignore .map files
+*.js.map
