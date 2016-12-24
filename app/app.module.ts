@@ -10,7 +10,8 @@ import { AppComponent }  from './app.component';
     FormsModule
   ],
   declarations: [
-    AppComponent
+    AppComponent,
+    HeroDetailComponent
   ],
   bootstrap: [ AppComponent ]
 })
