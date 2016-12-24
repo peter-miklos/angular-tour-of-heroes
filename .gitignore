@@ -6,3 +6,6 @@ app/**/*.js
 
 *Ignore .map files
 *.js.map
+
+*Ignore npm-debug.log
+npm-debug.log
